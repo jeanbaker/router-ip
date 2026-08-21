@@ -37,6 +37,7 @@ add address=2400:1160::/32 list=CNIP
 add address=2400:3200::/32 list=CNIP
 add address=2400:5280:f803::/48 list=CNIP
 add address=2400:5a00::/32 list=CNIP
+add address=2400:5a60:2::/48 list=CNIP
 add address=2400:6000::/32 list=CNIP
 add address=2400:6600::/32 list=CNIP
 add address=2400:6e60:1301::/48 list=CNIP
