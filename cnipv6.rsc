@@ -10,7 +10,6 @@ add address=2001:da8::/32 list=CNIP
 add address=2001:daa:1::/48 list=CNIP
 add address=2001:daa:2::/47 list=CNIP
 add address=2001:daa:4::/47 list=CNIP
-add address=2001:daa:6::/48 list=CNIP
 add address=2001:daa:9::/48 list=CNIP
 add address=2001:dc7::/45 list=CNIP
 add address=2001:dc7:9::/48 list=CNIP
@@ -203,6 +202,7 @@ add address=2402:c60::/48 list=CNIP
 add address=2402:1440::/32 list=CNIP
 add address=2402:18a0::/32 list=CNIP
 add address=2402:2000::/32 list=CNIP
+add address=2402:2e60::/39 list=CNIP
 add address=2402:34e0::/32 list=CNIP
 add address=2402:36e0::/44 list=CNIP
 add address=2402:3f80:1400::/40 list=CNIP
