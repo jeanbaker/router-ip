@@ -3306,7 +3306,6 @@ add address=2a0a:d681:fd00::/40 list=CNIP
 add address=2a0a:d682::/33 list=CNIP
 add address=2a0a:d682:8000::/34 list=CNIP
 add address=2a0a:d682:c000::/36 list=CNIP
-add address=2a0a:d682:e000::/35 list=CNIP
 add address=2a0a:d683::/32 list=CNIP
 add address=2a0a:d684::/32 list=CNIP
 add address=2a0a:d685::/40 list=CNIP
