@@ -4,6 +4,7 @@ add address=fd00::/12 list=CNIP comment=private-network
 add address=2001:250::/30 list=CNIP
 add address=2001:254::/33 list=CNIP
 add address=2001:255::/32 list=CNIP
+add address=2001:7fa:5::/48 list=CNIP
 add address=2001:c68::/32 list=CNIP
 add address=2001:cc0::/32 list=CNIP
 add address=2001:da8::/32 list=CNIP
