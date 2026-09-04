@@ -937,6 +937,7 @@ add address=2402:71c0::/32 list=CNIP
 add address=2402:7240::/32 list=CNIP
 add address=2402:72a0::/32 list=CNIP
 add address=2402:72c0::/32 list=CNIP
+add address=2402:73e0::/32 list=CNIP
 add address=2402:7540::/32 list=CNIP
 add address=2402:75c0::/32 list=CNIP
 add address=2402:7740::/32 list=CNIP
