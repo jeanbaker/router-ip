@@ -2448,6 +2448,11 @@ add address=2406:840:f500::/40 list=CNIP
 add address=2406:840:f600::/42 list=CNIP
 add address=2406:840:f640::/43 list=CNIP
 add address=2406:840:f670::/44 list=CNIP
+add address=2406:840:f680::/47 list=CNIP
+add address=2406:840:f682::/48 list=CNIP
+add address=2406:840:f685::/48 list=CNIP
+add address=2406:840:f686::/47 list=CNIP
+add address=2406:840:f688::/45 list=CNIP
 add address=2406:840:f690::/44 list=CNIP
 add address=2406:840:f6a0::/43 list=CNIP
 add address=2406:840:f6c0::/42 list=CNIP
@@ -2580,6 +2585,7 @@ add address=2406:840:fe26::/48 list=CNIP
 add address=2406:840:fe28::/45 list=CNIP
 add address=2406:840:fe30::/44 list=CNIP
 add address=2406:840:fe40::/44 list=CNIP
+add address=2406:840:fe51::/48 list=CNIP
 add address=2406:840:fe52::/47 list=CNIP
 add address=2406:840:fe54::/46 list=CNIP
 add address=2406:840:fe58::/45 list=CNIP
