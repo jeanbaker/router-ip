@@ -3105,6 +3105,7 @@ add address=2408:4004::/30 list=CNIP
 add address=2408:4008::/29 list=CNIP
 add address=2408:4010::/30 list=CNIP
 add address=2408:4014::/31 list=CNIP
+add address=2408:4016:1::/48 list=CNIP
 add address=2408:4016:2::/47 list=CNIP
 add address=2408:4016:4::/46 list=CNIP
 add address=2408:4016:8::/45 list=CNIP
