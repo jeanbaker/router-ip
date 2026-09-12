@@ -1817,7 +1817,9 @@ add address=2405:84c0:8010::/48 list=CNIP
 add address=2405:84c0:8019::/48 list=CNIP
 add address=2405:84c0:801c::/46 list=CNIP
 add address=2405:84c0:8020::/47 list=CNIP
-add address=2405:84c0:8036::/47 list=CNIP
+add address=2405:84c0:8031::/48 list=CNIP
+add address=2405:84c0:8032::/47 list=CNIP
+add address=2405:84c0:8034::/46 list=CNIP
 add address=2405:84c0:8038::/46 list=CNIP
 add address=2405:84c0:803c::/47 list=CNIP
 add address=2405:84c0:803e::/48 list=CNIP
