@@ -2213,7 +2213,6 @@ add address=2406:840:9101::/48 list=CNIP
 add address=2406:840:9103::/48 list=CNIP
 add address=2406:840:9104::/46 list=CNIP
 add address=2406:840:9108::/45 list=CNIP
-add address=2406:840:9111::/48 list=CNIP
 add address=2406:840:9112::/47 list=CNIP
 add address=2406:840:9114::/46 list=CNIP
 add address=2406:840:9118::/45 list=CNIP
