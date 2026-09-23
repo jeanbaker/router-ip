@@ -1227,7 +1227,6 @@ add address=2403:4c80::/32 list=CNIP
 add address=2403:4cc0::/32 list=CNIP
 add address=2403:4d80::/32 list=CNIP
 add address=2403:4ec0::/32 list=CNIP
-add address=2403:5040::/32 list=CNIP
 add address=2403:5080::/32 list=CNIP
 add address=2403:5280::/32 list=CNIP
 add address=2403:5380::/32 list=CNIP
@@ -2015,7 +2014,7 @@ add address=2406:840:807::/48 list=CNIP
 add address=2406:840:808::/45 list=CNIP
 add address=2406:840:810::/44 list=CNIP
 add address=2406:840:820::/43 list=CNIP
-add address=2406:840:840::/47 list=CNIP
+add address=2406:840:840::/48 list=CNIP
 add address=2406:840:843::/48 list=CNIP
 add address=2406:840:844::/46 list=CNIP
 add address=2406:840:848::/45 list=CNIP
@@ -2241,7 +2240,7 @@ add address=2406:840:9810::/45 list=CNIP
 add address=2406:840:9818::/47 list=CNIP
 add address=2406:840:981b::/48 list=CNIP
 add address=2406:840:9820::/43 list=CNIP
-add address=2406:840:9840::/43 list=CNIP
+add address=2406:840:9850::/44 list=CNIP
 add address=2406:840:9860::/47 list=CNIP
 add address=2406:840:9865::/48 list=CNIP
 add address=2406:840:9866::/47 list=CNIP
@@ -2272,7 +2271,10 @@ add address=2406:840:9f80::/42 list=CNIP
 add address=2406:840:9fc0::/43 list=CNIP
 add address=2406:840:9fe0::/44 list=CNIP
 add address=2406:840:a000::/35 list=CNIP
-add address=2406:840:c000::/36 list=CNIP
+add address=2406:840:c000::/37 list=CNIP
+add address=2406:840:c800::/38 list=CNIP
+add address=2406:840:cd00::/40 list=CNIP
+add address=2406:840:ce00::/39 list=CNIP
 add address=2406:840:e000::/41 list=CNIP
 add address=2406:840:e090::/44 list=CNIP
 add address=2406:840:e0a0::/43 list=CNIP
