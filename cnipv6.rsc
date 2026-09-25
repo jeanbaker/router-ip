@@ -953,6 +953,7 @@ add address=2402:73e0::/32 list=CNIP
 add address=2402:7540::/32 list=CNIP
 add address=2402:75c0::/32 list=CNIP
 add address=2402:7740::/32 list=CNIP
+add address=2402:7820::/32 list=CNIP
 add address=2402:7d00::/32 list=CNIP
 add address=2402:7d80::/32 list=CNIP
 add address=2402:8180::/32 list=CNIP
@@ -1759,7 +1760,8 @@ add address=2405:84c0:7000::/36 list=CNIP
 add address=2405:84c0:8000::/48 list=CNIP
 add address=2405:84c0:8002::/48 list=CNIP
 add address=2405:84c0:8006::/48 list=CNIP
-add address=2405:84c0:8008::/45 list=CNIP
+add address=2405:84c0:800a::/47 list=CNIP
+add address=2405:84c0:800c::/46 list=CNIP
 add address=2405:84c0:8010::/48 list=CNIP
 add address=2405:84c0:8019::/48 list=CNIP
 add address=2405:84c0:801c::/46 list=CNIP
