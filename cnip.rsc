@@ -3063,7 +3063,6 @@ add address=111.235.156.0/22 list=CNIP
 add address=111.235.160.0/19 list=CNIP
 add address=112.0.0.0/10 list=CNIP
 add address=112.64.0.0/14 list=CNIP
-add address=112.73.232.0/24 list=CNIP
 add address=112.74.0.0/15 list=CNIP
 add address=112.80.0.0/12 list=CNIP
 add address=112.96.0.0/13 list=CNIP
