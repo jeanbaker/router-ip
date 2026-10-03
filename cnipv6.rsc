@@ -3328,7 +3328,11 @@ add address=2a0a:d684::/32 list=CNIP
 add address=2a0a:d685::/40 list=CNIP
 add address=2a0a:d685:100::/41 list=CNIP
 add address=2a0a:d685:180::/42 list=CNIP
-add address=2a0a:d685:1c0::/43 list=CNIP
+add address=2a0a:d685:1c0::/44 list=CNIP
+add address=2a0a:d685:1d1::/48 list=CNIP
+add address=2a0a:d685:1d2::/47 list=CNIP
+add address=2a0a:d685:1d4::/46 list=CNIP
+add address=2a0a:d685:1d8::/45 list=CNIP
 add address=2a0a:d685:1e2::/47 list=CNIP
 add address=2a0a:d685:1e4::/46 list=CNIP
 add address=2a0a:d685:1e8::/45 list=CNIP
