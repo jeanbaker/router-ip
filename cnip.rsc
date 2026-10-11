@@ -1012,6 +1012,7 @@ add address=47.87.0.0/20 list=CNIP
 add address=47.87.16.0/21 list=CNIP
 add address=47.87.32.0/19 list=CNIP
 add address=47.87.64.0/21 list=CNIP
+add address=47.87.72.0/24 list=CNIP
 add address=47.87.80.0/20 list=CNIP
 add address=47.87.96.0/19 list=CNIP
 add address=47.87.128.0/20 list=CNIP
@@ -3990,6 +3991,7 @@ add address=123.49.208.0/20 list=CNIP
 add address=123.49.224.0/20 list=CNIP
 add address=123.49.240.0/24 list=CNIP
 add address=123.49.242.0/23 list=CNIP
+add address=123.49.245.0/24 list=CNIP
 add address=123.49.248.0/21 list=CNIP
 add address=123.50.160.0/19 list=CNIP
 add address=123.52.0.0/14 list=CNIP
