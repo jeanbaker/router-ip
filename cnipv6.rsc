@@ -2253,7 +2253,8 @@ add address=2406:840:9400::/39 list=CNIP
 add address=2406:840:9610::/44 list=CNIP
 add address=2406:840:9630::/44 list=CNIP
 add address=2406:840:9640::/43 list=CNIP
-add address=2406:840:9660::/46 list=CNIP
+add address=2406:840:9660::/48 list=CNIP
+add address=2406:840:9662::/47 list=CNIP
 add address=2406:840:9664::/47 list=CNIP
 add address=2406:840:9667::/48 list=CNIP
 add address=2406:840:9668::/45 list=CNIP
