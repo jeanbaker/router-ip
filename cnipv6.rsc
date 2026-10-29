@@ -3375,7 +3375,6 @@ add address=2a0a:d685:1e8::/45 list=CNIP
 add address=2a0a:d685:1f0::/45 list=CNIP
 add address=2a0a:d685:1f8::/47 list=CNIP
 add address=2a0a:d685:1fa::/48 list=CNIP
-add address=2a0a:d685:200::/48 list=CNIP
 add address=2a0a:d685:202::/47 list=CNIP
 add address=2a0a:d685:204::/46 list=CNIP
 add address=2a0a:d685:208::/45 list=CNIP
