@@ -3952,7 +3952,7 @@ add address=140.246.0.0/16 list=CNIP
 add address=140.249.0.0/16 list=CNIP
 add address=140.250.0.0/16 list=CNIP
 add address=140.255.0.0/16 list=CNIP
-add address=142.86.200.0/21 list=CNIP
+add address=142.86.204.0/22 list=CNIP
 add address=142.86.208.0/20 list=CNIP
 add address=142.86.224.0/20 list=CNIP
 add address=142.86.240.0/21 list=CNIP
@@ -4042,7 +4042,7 @@ add address=150.255.0.0/16 list=CNIP
 add address=151.158.14.0/23 list=CNIP
 add address=151.158.78.0/23 list=CNIP
 add address=151.158.80.0/23 list=CNIP
-add address=151.158.123.0/24 list=CNIP
+add address=151.158.122.0/23 list=CNIP
 add address=152.104.128.0/17 list=CNIP
 add address=152.136.0.0/16 list=CNIP
 add address=153.0.0.0/16 list=CNIP

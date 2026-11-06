@@ -1240,7 +1240,7 @@ add address=2403:62c0::/32 list=CNIP
 add address=2403:6380::/44 list=CNIP
 add address=2403:6380:20::/44 list=CNIP
 add address=2403:6380:33::/48 list=CNIP
-add address=2403:6380:36::/47 list=CNIP
+add address=2403:6380:37::/48 list=CNIP
 add address=2403:6380:38::/45 list=CNIP
 add address=2403:6380:41::/48 list=CNIP
 add address=2403:6380:44::/46 list=CNIP
@@ -2294,9 +2294,7 @@ add address=2406:840:e0ce::/48 list=CNIP
 add address=2406:840:e0d0::/44 list=CNIP
 add address=2406:840:e0e4::/48 list=CNIP
 add address=2406:840:e0e6::/47 list=CNIP
-add address=2406:840:e0e9::/48 list=CNIP
-add address=2406:840:e0ea::/47 list=CNIP
-add address=2406:840:e0ec::/46 list=CNIP
+add address=2406:840:e0e8::/45 list=CNIP
 add address=2406:840:e0f0::/44 list=CNIP
 add address=2406:840:e100::/45 list=CNIP
 add address=2406:840:e108::/46 list=CNIP
