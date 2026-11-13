@@ -1968,7 +1968,13 @@ add address=2406:840:424::/46 list=CNIP
 add address=2406:840:428::/45 list=CNIP
 add address=2406:840:430::/44 list=CNIP
 add address=2406:840:440::/42 list=CNIP
-add address=2406:840:480::/41 list=CNIP
+add address=2406:840:481::/48 list=CNIP
+add address=2406:840:482::/47 list=CNIP
+add address=2406:840:484::/46 list=CNIP
+add address=2406:840:488::/45 list=CNIP
+add address=2406:840:490::/44 list=CNIP
+add address=2406:840:4a0::/43 list=CNIP
+add address=2406:840:4c0::/42 list=CNIP
 add address=2406:840:500::/42 list=CNIP
 add address=2406:840:541::/48 list=CNIP
 add address=2406:840:542::/47 list=CNIP
