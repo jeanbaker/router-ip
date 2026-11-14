@@ -3310,8 +3310,7 @@ add address=2a0a:d685:220::/43 list=CNIP
 add address=2a0a:d685:240::/42 list=CNIP
 add address=2a0a:d685:280::/41 list=CNIP
 add address=2a0a:d685:400::/40 list=CNIP
-add address=2a0a:d685:500::/48 list=CNIP
-add address=2a0a:d685:502::/47 list=CNIP
+add address=2a0a:d685:500::/46 list=CNIP
 add address=2a0a:d685:504::/48 list=CNIP
 add address=2a0a:d685:506::/47 list=CNIP
 add address=2a0a:d685:508::/48 list=CNIP
