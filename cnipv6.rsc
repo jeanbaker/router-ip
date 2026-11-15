@@ -2300,7 +2300,9 @@ add address=2406:840:e0ce::/48 list=CNIP
 add address=2406:840:e0d0::/44 list=CNIP
 add address=2406:840:e0e4::/48 list=CNIP
 add address=2406:840:e0e6::/47 list=CNIP
-add address=2406:840:e0e8::/45 list=CNIP
+add address=2406:840:e0e9::/48 list=CNIP
+add address=2406:840:e0ea::/47 list=CNIP
+add address=2406:840:e0ec::/46 list=CNIP
 add address=2406:840:e0f0::/44 list=CNIP
 add address=2406:840:e100::/45 list=CNIP
 add address=2406:840:e108::/46 list=CNIP
