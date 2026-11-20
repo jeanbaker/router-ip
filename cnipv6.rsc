@@ -2252,7 +2252,8 @@ add address=2406:840:96a0::/43 list=CNIP
 add address=2406:840:96c0::/42 list=CNIP
 add address=2406:840:9809::/48 list=CNIP
 add address=2406:840:980a::/47 list=CNIP
-add address=2406:840:980c::/46 list=CNIP
+add address=2406:840:980d::/48 list=CNIP
+add address=2406:840:980e::/47 list=CNIP
 add address=2406:840:9811::/48 list=CNIP
 add address=2406:840:9812::/47 list=CNIP
 add address=2406:840:9814::/46 list=CNIP
@@ -2274,7 +2275,10 @@ add address=2406:840:9965::/48 list=CNIP
 add address=2406:840:9968::/46 list=CNIP
 add address=2406:840:996d::/48 list=CNIP
 add address=2406:840:996e::/47 list=CNIP
-add address=2406:840:9970::/44 list=CNIP
+add address=2406:840:9970::/46 list=CNIP
+add address=2406:840:9974::/47 list=CNIP
+add address=2406:840:9976::/48 list=CNIP
+add address=2406:840:9978::/45 list=CNIP
 add address=2406:840:9981::/48 list=CNIP
 add address=2406:840:9982::/47 list=CNIP
 add address=2406:840:9984::/46 list=CNIP
@@ -2303,9 +2307,7 @@ add address=2406:840:e0ce::/48 list=CNIP
 add address=2406:840:e0d0::/44 list=CNIP
 add address=2406:840:e0e4::/48 list=CNIP
 add address=2406:840:e0e6::/47 list=CNIP
-add address=2406:840:e0e9::/48 list=CNIP
-add address=2406:840:e0ea::/47 list=CNIP
-add address=2406:840:e0ec::/46 list=CNIP
+add address=2406:840:e0e8::/45 list=CNIP
 add address=2406:840:e0f0::/44 list=CNIP
 add address=2406:840:e100::/45 list=CNIP
 add address=2406:840:e108::/46 list=CNIP
@@ -2634,6 +2636,7 @@ add address=2406:840:fee0::/45 list=CNIP
 add address=2406:840:fee8::/46 list=CNIP
 add address=2406:840:feec::/48 list=CNIP
 add address=2406:840:feee::/47 list=CNIP
+add address=2406:840:feff::/48 list=CNIP
 add address=2406:840:ff20::/43 list=CNIP
 add address=2406:840:ff40::/42 list=CNIP
 add address=2406:840:ff80::/41 list=CNIP
@@ -3066,7 +3069,6 @@ add address=2408:4004::/30 list=CNIP
 add address=2408:4008::/29 list=CNIP
 add address=2408:4010::/30 list=CNIP
 add address=2408:4014::/31 list=CNIP
-add address=2408:4016:1::/48 list=CNIP
 add address=2408:4016:2::/47 list=CNIP
 add address=2408:4016:4::/46 list=CNIP
 add address=2408:4016:8::/45 list=CNIP
