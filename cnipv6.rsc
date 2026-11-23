@@ -2275,7 +2275,10 @@ add address=2406:840:9965::/48 list=CNIP
 add address=2406:840:9968::/46 list=CNIP
 add address=2406:840:996d::/48 list=CNIP
 add address=2406:840:996e::/47 list=CNIP
-add address=2406:840:9970::/44 list=CNIP
+add address=2406:840:9970::/46 list=CNIP
+add address=2406:840:9974::/47 list=CNIP
+add address=2406:840:9976::/48 list=CNIP
+add address=2406:840:9978::/45 list=CNIP
 add address=2406:840:9981::/48 list=CNIP
 add address=2406:840:9982::/47 list=CNIP
 add address=2406:840:9984::/46 list=CNIP

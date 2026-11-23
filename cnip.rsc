@@ -6163,7 +6163,12 @@ add address=222.16.0.0/12 list=CNIP
 add address=222.32.0.0/11 list=CNIP
 add address=222.64.0.0/11 list=CNIP
 add address=222.125.0.0/16 list=CNIP
-add address=222.126.128.0/17 list=CNIP
+add address=222.126.128.0/19 list=CNIP
+add address=222.126.160.0/21 list=CNIP
+add address=222.126.168.0/22 list=CNIP
+add address=222.126.172.0/23 list=CNIP
+add address=222.126.176.0/20 list=CNIP
+add address=222.126.192.0/18 list=CNIP
 add address=222.128.0.0/12 list=CNIP
 add address=222.160.0.0/14 list=CNIP
 add address=222.168.0.0/13 list=CNIP
