@@ -958,6 +958,7 @@ add address=2402:8260:6000::/35 list=CNIP
 add address=2402:8260:8000::/33 list=CNIP
 add address=2402:8300::/32 list=CNIP
 add address=2402:8380::/32 list=CNIP
+add address=2402:8420::/32 list=CNIP
 add address=2402:85c0::/32 list=CNIP
 add address=2402:8800::/32 list=CNIP
 add address=2402:8840::/32 list=CNIP
